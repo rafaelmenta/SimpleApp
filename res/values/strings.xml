@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="move_star">Move the star around</string>
+    <string name="content_description">Descricao Teste</string>
+
+</resources>
